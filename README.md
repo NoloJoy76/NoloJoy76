@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lehlogognolo Bridget
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning computer science at TUT Polokwane Campus
-- 💞️ I’m looking to collaborate on sotware development 
+- 💞️ I’m looking to collaborate on sotfware development 
 - 📫 How to reach me 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
